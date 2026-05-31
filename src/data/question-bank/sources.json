@@ -1,0 +1,28 @@
+{
+  "googleDrive": {
+    "rootFolder": {
+      "title": "不動產經紀人證照檔案"
+    },
+    "pastExamFolder": {
+      "title": "歷屆試題"
+    },
+    "availableYears": [
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114
+    ],
+    "notes": [
+      "各年度資料夾內通常包含題目 PDF、ANS 答案 PDF，以及可能的 MOD 更正 PDF。",
+      "正式匯入時應優先採用 MOD 更正版題目，再對應 ANS 答案檔。"
+    ]
+  }
+}

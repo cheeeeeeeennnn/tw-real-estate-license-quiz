@@ -1,0 +1,40 @@
+[
+  {
+    "title": "民法重點法條(星號).pdf",
+    "relatedCodes": [
+      "civil-code"
+    ],
+    "subjectSlugs": [
+      "civil"
+    ],
+    "use": "民法條文校對與重點法條參考"
+  },
+  {
+    "title": "不動產估價技術規則.pdf",
+    "relatedCodes": [
+      "valuation-rules"
+    ],
+    "subjectSlugs": [
+      "valuation"
+    ],
+    "use": "不動產估價技術規則條文校對"
+  },
+  {
+    "title": "土地法與土地相關稅法概要1.pdf",
+    "relatedCodes": [
+      "land-act",
+      "land-registration-rules",
+      "cadastral-survey-rules",
+      "equalization-land-rights-act",
+      "land-tax-act",
+      "estate-and-gift-tax-act",
+      "house-tax-act",
+      "deed-tax-act",
+      "tax-collection-act"
+    ],
+    "subjectSlugs": [
+      "land-tax"
+    ],
+    "use": "土地法與土地稅法講義來源資料夾，供校對 topic 與考點"
+  }
+]

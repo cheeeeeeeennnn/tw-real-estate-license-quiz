@@ -1,0 +1,100 @@
+[
+  {
+    "code": "civil-code",
+    "codeName": "民法",
+    "pcode": "B0000001",
+    "subjectSlugs": ["civil"],
+    "defaultTopics": ["民法"]
+  },
+  {
+    "code": "land-act",
+    "codeName": "土地法",
+    "pcode": "D0060001",
+    "subjectSlugs": ["land-tax"],
+    "defaultTopics": ["土地法"]
+  },
+  {
+    "code": "land-registration-rules",
+    "codeName": "土地登記規則",
+    "pcode": "D0060003",
+    "subjectSlugs": ["land-tax"],
+    "defaultTopics": ["土地登記"]
+  },
+  {
+    "code": "cadastral-survey-rules",
+    "codeName": "地籍測量實施規則",
+    "pcode": "D0060004",
+    "subjectSlugs": ["land-tax"],
+    "defaultTopics": ["地籍測量"]
+  },
+  {
+    "code": "equalization-land-rights-act",
+    "codeName": "平均地權條例",
+    "pcode": "D0060009",
+    "subjectSlugs": ["land-tax", "broker-law"],
+    "defaultTopics": ["平均地權", "實價登錄"]
+  },
+  {
+    "code": "land-expropriation-act",
+    "codeName": "土地徵收條例",
+    "pcode": "D0060058",
+    "subjectSlugs": ["land-tax"],
+    "defaultTopics": ["土地徵收", "區段徵收"]
+  },
+  {
+    "code": "land-tax-act",
+    "codeName": "土地稅法",
+    "pcode": "G0340096",
+    "subjectSlugs": ["land-tax"],
+    "defaultTopics": ["土地稅"]
+  },
+  {
+    "code": "estate-and-gift-tax-act",
+    "codeName": "遺產及贈與稅法",
+    "pcode": "G0340072",
+    "subjectSlugs": ["land-tax"],
+    "defaultTopics": ["遺產及贈與稅"]
+  },
+  {
+    "code": "house-tax-act",
+    "codeName": "房屋稅條例",
+    "pcode": "G0340102",
+    "subjectSlugs": ["land-tax"],
+    "defaultTopics": ["房屋稅"]
+  },
+  {
+    "code": "deed-tax-act",
+    "codeName": "契稅條例",
+    "pcode": "G0340104",
+    "subjectSlugs": ["land-tax"],
+    "defaultTopics": ["契稅"]
+  },
+  {
+    "code": "tax-collection-act",
+    "codeName": "稅捐稽徵法",
+    "pcode": "G0340001",
+    "subjectSlugs": ["land-tax"],
+    "defaultTopics": ["稅捐稽徵"]
+  },
+  {
+    "code": "valuation-rules",
+    "codeName": "不動產估價技術規則",
+    "pcode": "D0060077",
+    "subjectSlugs": ["valuation"],
+    "defaultTopics": ["不動產估價"]
+  },
+  {
+    "code": "broker-law",
+    "codeName": "不動產經紀業管理條例",
+    "pcode": "D0060066",
+    "subjectSlugs": ["broker-law"],
+    "defaultTopics": ["經紀業管理"]
+  },
+  {
+    "code": "broker-law-enforcement-rules",
+    "codeName": "不動產經紀業管理條例施行細則",
+    "pcode": "D0060068",
+    "subjectSlugs": ["broker-law"],
+    "defaultTopics": ["經紀業管理"]
+  }
+]

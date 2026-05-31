@@ -1,0 +1,429 @@
+[
+  {
+    "id": "land-tax-unit-01",
+    "lectureSubject": "土地法與土地稅法講義",
+    "courseSubject": "土地法與土地相關稅法概要",
+    "sourceFolder": "土地法與土地稅法講義",
+    "sourceFiles": ["土地法與土地稅法講義_範例.pdf"],
+    "unitNo": 1,
+    "unitTitle": "土地法總則",
+    "unitGroup": "土地法與土地稅法",
+    "sourceRefs": ["範例來源：土地法與土地稅法講義，總則單元，頁碼待校對"],
+    "draftStatus": "sample",
+    "routingTags": ["land-general", "land-rights", "land-policy"],
+    "learningGoals": ["理解土地法的規範目的與基本原則", "分辨土地權利、土地使用與土地行政的基本架構", "掌握歷屆試題常出現的總則概念"],
+    "keyConcepts": ["土地政策", "土地權利", "地權限制", "土地利用", "公共利益"],
+    "importantArticles": [
+      { "lawName": "土地法", "articleNo": "第1條", "reason": "理解土地法適用範圍與基本定位" },
+      { "lawName": "土地法", "articleNo": "第2條", "reason": "認識土地分類與後續章節架構" }
+    ],
+    "examFocus": ["土地法基本概念與立法目的", "土地分類與土地權利限制", "總則與地籍、使用、稅法章節的連動"],
+    "commonConfusions": [
+      { "confusion": "土地法總則與平均地權制度混淆", "clarification": "總則偏向基本架構，平均地權偏向地價、地權與土地利用政策工具" }
+    ],
+    "summary": "本單元整理土地法的基礎架構，重點在土地權利、土地利用與公共利益之間的關係，作為後續地籍、使用與稅法章節的前置觀念。",
+    "relatedQuestionIds": [],
+    "reviewQuestions": [
+      { "question": "土地法總則主要在建立哪些基本規範方向？", "answer": "土地權利、土地使用、土地行政與公共利益之間的基本架構。", "explanation": "總則通常是後續地籍、使用與地價制度的概念基礎。" },
+      { "question": "土地法總則與土地稅法有何關聯？", "answer": "總則提供土地管理與利用的基礎，土地稅法則處理土地持有或移轉時的稅負規範。", "explanation": "考題常將土地制度與稅法效果一起測驗。" }
+    ]
+  },
+  {
+    "id": "land-tax-unit-02",
+    "lectureSubject": "土地法與土地稅法講義",
+    "courseSubject": "土地法與土地相關稅法概要",
+    "sourceFolder": "土地法與土地稅法講義",
+    "sourceFiles": ["土地法與土地稅法講義_範例.pdf"],
+    "unitNo": 2,
+    "unitTitle": "地籍",
+    "unitGroup": "土地法與土地稅法",
+    "sourceRefs": ["範例來源：土地法與土地稅法講義，地籍單元，頁碼待校對"],
+    "draftStatus": "sample",
+    "routingTags": ["land-registration", "cadastre", "land-transfer"],
+    "learningGoals": ["理解地籍的功能與土地登記目的", "掌握登記、測量與權利變動的關係", "分辨登記效力與實體權利關係"],
+    "keyConcepts": ["地籍測量", "土地登記", "權利變動", "登記效力", "移轉登記"],
+    "importantArticles": [
+      { "lawName": "土地法", "articleNo": "第37條", "reason": "地籍整理與土地登記的基礎規定" },
+      { "lawName": "土地法", "articleNo": "第43條", "reason": "土地登記效力是歷屆常考概念" },
+      { "lawName": "土地登記規則", "articleNo": "第34條", "reason": "登記申請與實務流程常作為細節考點" }
+    ],
+    "examFocus": ["土地登記效力", "土地權利變動與登記的關係", "地籍測量、登記與公告資料的區分"],
+    "commonConfusions": [
+      { "confusion": "登記生效與登記對抗混淆", "clarification": "不同權利或不同法律關係，登記的功能可能是生效、對抗或公示。" },
+      { "confusion": "地籍資料與稅籍資料混淆", "clarification": "地籍偏向土地位置、界址與權利，稅籍偏向課稅資料。" }
+    ],
+    "summary": "本單元以地籍、測量與登記為核心，協助理解土地權利如何透過登記制度公示，並連結土地移轉與權利變動試題。",
+    "relatedQuestionIds": [],
+    "reviewQuestions": [
+      { "question": "土地登記制度的主要功能是什麼？", "answer": "公示土地權利狀態，作為交易安全與土地管理的基礎。", "explanation": "登記制度是地籍單元最核心的考點。" },
+      { "question": "為什麼土地移轉常與登記一起考？", "answer": "因為土地權利變動通常需要透過登記確認或公示。", "explanation": "選擇題常用買賣、繼承、共有等情境測驗登記效果。" }
+    ]
+  },
+  {
+    "id": "land-tax-unit-03",
+    "lectureSubject": "土地法與土地稅法講義",
+    "courseSubject": "土地法與土地相關稅法概要",
+    "sourceFolder": "土地法與土地稅法講義",
+    "sourceFiles": ["土地法與土地稅法講義_範例.pdf"],
+    "unitNo": 3,
+    "unitTitle": "土地使用",
+    "unitGroup": "土地法與土地稅法",
+    "sourceRefs": ["範例來源：土地法與土地稅法講義，土地使用單元，頁碼待校對"],
+    "draftStatus": "sample",
+    "routingTags": ["land-use", "zoning", "land-control"],
+    "learningGoals": ["理解土地使用管制的目的", "掌握土地使用限制與公共利益的關係", "辨識使用分區、管制與徵收重點"],
+    "keyConcepts": ["土地使用管制", "使用分區", "公共設施", "徵收", "土地利用"],
+    "importantArticles": [
+      { "lawName": "土地法", "articleNo": "第208條", "reason": "徵收與公共目的常作為土地使用限制考點" },
+      { "lawName": "都市計畫法", "articleNo": "第32條", "reason": "使用分區與土地使用管制常連動出題" }
+    ],
+    "examFocus": ["土地使用限制的目的", "使用分區與土地利用關係", "公共利益與私人財產權的衡量"],
+    "commonConfusions": [
+      { "confusion": "土地使用管制與土地所有權限制混淆", "clarification": "使用管制是對土地利用方式的限制，不等於否定所有權本身。" }
+    ],
+    "summary": "本單元聚焦土地使用管制，重點在公共利益、土地利用效率與所有權限制之間的平衡。",
+    "relatedQuestionIds": [],
+    "reviewQuestions": [
+      { "question": "土地使用管制的主要目的為何？", "answer": "促進土地合理利用並維護公共利益。", "explanation": "使用管制通常與都市計畫、公共設施和分區限制一起考。" },
+      { "question": "土地所有人是否可完全自由使用土地？", "answer": "否，仍須受法律與使用管制限制。", "explanation": "土地具有公共性，因此所有權行使會受到限制。" }
+    ]
+  },
+  {
+    "id": "land-tax-unit-04",
+    "lectureSubject": "土地法與土地稅法講義",
+    "courseSubject": "土地法與土地相關稅法概要",
+    "sourceFolder": "土地法與土地稅法講義",
+    "sourceFiles": ["土地法與土地稅法講義_範例.pdf"],
+    "unitNo": 4,
+    "unitTitle": "土地稅法總覽",
+    "unitGroup": "土地法與土地稅法",
+    "sourceRefs": ["範例來源：土地法與土地稅法講義，土地稅法單元，頁碼待校對"],
+    "draftStatus": "sample",
+    "routingTags": ["land-tax", "land-value-tax", "land-value-increment-tax"],
+    "learningGoals": ["掌握地價稅、土地增值稅的基本差異", "理解持有稅與移轉稅的課稅時點", "建立土地稅法常考架構"],
+    "keyConcepts": ["地價稅", "土地增值稅", "公告地價", "公告土地現值", "自用住宅用地"],
+    "importantArticles": [
+      { "lawName": "土地稅法", "articleNo": "第14條", "reason": "地價稅課徵基礎" },
+      { "lawName": "土地稅法", "articleNo": "第28條", "reason": "土地增值稅移轉課徵基礎" },
+      { "lawName": "土地稅法", "articleNo": "第34條", "reason": "自用住宅用地優惠稅率常考" }
+    ],
+    "examFocus": ["地價稅與土地增值稅差異", "公告地價與公告土地現值差異", "自用住宅用地優惠條件"],
+    "commonConfusions": [
+      { "confusion": "公告地價與公告土地現值混淆", "clarification": "公告地價多與地價稅相關，公告土地現值多與土地增值稅相關。" }
+    ],
+    "summary": "本單元整理土地稅法基本架構，先建立持有稅與移轉稅的差異，再連結優惠稅率與常考課稅時點。",
+    "relatedQuestionIds": [],
+    "reviewQuestions": [
+      { "question": "地價稅與土地增值稅最大的差異是什麼？", "answer": "地價稅偏向持有期間課稅，土地增值稅偏向土地移轉時課稅。", "explanation": "這是土地稅法入門最重要的分類。" },
+      { "question": "公告土地現值通常與哪一種稅較有關？", "answer": "土地增值稅。", "explanation": "土地移轉時常以公告土地現值作為計算基礎之一。" }
+    ]
+  },
+  {
+    "id": "civil-unit-01",
+    "lectureSubject": "民法講義及補充資料",
+    "courseSubject": "民法概要",
+    "sourceFolder": "民法講義及補充資料",
+    "sourceFiles": ["民法講義及補充資料_範例.pdf"],
+    "unitNo": 1,
+    "unitTitle": "民法總則：人與能力",
+    "unitGroup": "民法總則",
+    "sourceRefs": ["範例來源：民法講義及補充資料，總則單元，頁碼待校對"],
+    "draftStatus": "sample",
+    "routingTags": ["civil-general", "legal-capacity", "person"],
+    "learningGoals": ["理解自然人與法人的基本概念", "掌握權利能力、行為能力與責任能力差異", "辨識限制行為能力相關考點"],
+    "keyConcepts": ["自然人", "法人", "權利能力", "行為能力", "限制行為能力"],
+    "importantArticles": [
+      { "lawName": "民法", "articleNo": "第6條", "reason": "權利能力始期是民法總則基本考點" },
+      { "lawName": "民法", "articleNo": "第12條", "reason": "成年與行為能力判斷相關" },
+      { "lawName": "民法", "articleNo": "第13條", "reason": "限制行為能力人與無行為能力人常考" }
+    ],
+    "examFocus": ["權利能力與行為能力差異", "未成年人法律行為效力", "監護或輔助宣告相關概念"],
+    "commonConfusions": [
+      { "confusion": "權利能力與行為能力混淆", "clarification": "權利能力是成為權利義務主體的資格，行為能力是有效作成法律行為的能力。" }
+    ],
+    "summary": "本單元建立民法總則中人的基本概念，重點是權利能力、行為能力與不同能力狀態下法律行為的效力。",
+    "relatedQuestionIds": [],
+    "reviewQuestions": [
+      { "question": "權利能力與行為能力有何不同？", "answer": "權利能力是享有權利負擔義務的資格，行為能力是能獨立有效作成法律行為的能力。", "explanation": "兩者是民法總則最常混淆的基礎概念。" },
+      { "question": "未成年人作成法律行為時，通常要注意什麼？", "answer": "是否屬限制行為能力，以及是否需要法定代理人同意。", "explanation": "考題常用買賣或契約情境測驗效力。" }
+    ]
+  },
+  {
+    "id": "civil-unit-02",
+    "lectureSubject": "民法講義及補充資料",
+    "courseSubject": "民法概要",
+    "sourceFolder": "民法講義及補充資料",
+    "sourceFiles": ["民法講義及補充資料_範例.pdf"],
+    "unitNo": 2,
+    "unitTitle": "法律行為與代理",
+    "unitGroup": "民法總則",
+    "sourceRefs": ["範例來源：民法講義及補充資料，法律行為與代理單元，頁碼待校對"],
+    "draftStatus": "sample",
+    "routingTags": ["civil-juristic-act", "agency", "intent"],
+    "learningGoals": ["理解法律行為成立與生效要件", "掌握意思表示瑕疵類型", "分辨有權代理、無權代理與表見代理"],
+    "keyConcepts": ["法律行為", "意思表示", "代理權", "無權代理", "表見代理"],
+    "importantArticles": [
+      { "lawName": "民法", "articleNo": "第86條", "reason": "意思表示效力基礎" },
+      { "lawName": "民法", "articleNo": "第92條", "reason": "詐欺、脅迫與撤銷常考" },
+      { "lawName": "民法", "articleNo": "第170條", "reason": "無權代理效力常考" }
+    ],
+    "examFocus": ["意思表示瑕疵", "代理權存在與否", "本人承認對無權代理效力的影響"],
+    "commonConfusions": [
+      { "confusion": "無權代理與表見代理混淆", "clarification": "無權代理重點在欠缺代理權，表見代理則著重外觀信賴與本人可歸責性。" }
+    ],
+    "summary": "本單元整理法律行為與代理制度，重點在意思表示是否健全、代理權是否存在，以及法律行為效力如何判斷。",
+    "relatedQuestionIds": [],
+    "reviewQuestions": [
+      { "question": "無權代理行為一定無效嗎？", "answer": "不一定，經本人承認後可對本人發生效力。", "explanation": "承認是無權代理題型常見關鍵。" },
+      { "question": "詐欺或脅迫的法律效果通常是什麼？", "answer": "表意人得依法撤銷意思表示。", "explanation": "需注意撤銷權行使與善意第三人的保護問題。" }
+    ]
+  },
+  {
+    "id": "civil-unit-03",
+    "lectureSubject": "民法講義及補充資料",
+    "courseSubject": "民法概要",
+    "sourceFolder": "民法講義及補充資料",
+    "sourceFiles": ["民法講義及補充資料_範例.pdf"],
+    "unitNo": 3,
+    "unitTitle": "債編通則",
+    "unitGroup": "民法債編",
+    "sourceRefs": ["範例來源：民法講義及補充資料，債編通則單元，頁碼待校對"],
+    "draftStatus": "sample",
+    "routingTags": ["civil-obligation", "performance", "default"],
+    "learningGoals": ["理解債之發生原因", "掌握給付、清償與債務不履行", "分辨損害賠償與解除契約的適用情境"],
+    "keyConcepts": ["債之關係", "給付", "清償", "債務不履行", "損害賠償"],
+    "importantArticles": [
+      { "lawName": "民法", "articleNo": "第199條", "reason": "債權基本概念" },
+      { "lawName": "民法", "articleNo": "第227條", "reason": "不完全給付常考" },
+      { "lawName": "民法", "articleNo": "第229條", "reason": "給付遲延與催告常考" }
+    ],
+    "examFocus": ["債之發生原因", "給付不能、給付遲延、不完全給付", "損害賠償成立要件"],
+    "commonConfusions": [
+      { "confusion": "給付不能與給付遲延混淆", "clarification": "給付不能是不能履行，給付遲延是仍可履行但逾期。" }
+    ],
+    "summary": "本單元整理債編通則的基本架構，尤其是債之發生、履行與不履行的法律效果。",
+    "relatedQuestionIds": [],
+    "reviewQuestions": [
+      { "question": "債務不履行常見類型有哪些？", "answer": "給付不能、給付遲延與不完全給付。", "explanation": "分類判斷會影響法律效果。" },
+      { "question": "給付遲延通常要注意什麼？", "answer": "履行期、催告與可歸責性。", "explanation": "考題常用契約履行時間點測驗。" }
+    ]
+  },
+  {
+    "id": "civil-unit-04",
+    "lectureSubject": "民法講義及補充資料",
+    "courseSubject": "民法概要",
+    "sourceFolder": "民法講義及補充資料",
+    "sourceFiles": ["民法講義及補充資料_範例.pdf"],
+    "unitNo": 4,
+    "unitTitle": "物權總論與所有權",
+    "unitGroup": "民法物權",
+    "sourceRefs": ["範例來源：民法講義及補充資料，物權單元，頁碼待校對"],
+    "draftStatus": "sample",
+    "routingTags": ["civil-property", "ownership", "real-right"],
+    "learningGoals": ["理解物權法定與公示原則", "掌握所有權權能與限制", "分辨不動產、動產與定著物考點"],
+    "keyConcepts": ["物權", "所有權", "不動產", "動產", "土地定著物"],
+    "importantArticles": [
+      { "lawName": "民法", "articleNo": "第66條", "reason": "不動產與土地定著物是常考定義" },
+      { "lawName": "民法", "articleNo": "第765條", "reason": "所有權權能基礎" },
+      { "lawName": "民法", "articleNo": "第758條", "reason": "不動產物權變動與登記常考" }
+    ],
+    "examFocus": ["不動產與動產區分", "土地定著物判斷", "不動產物權變動與登記"],
+    "commonConfusions": [
+      { "confusion": "土地定著物與一般動產混淆", "clarification": "是否固定附著於土地並具一定繼續性，是判斷重點之一。" }
+    ],
+    "summary": "本單元整理物權總論與所有權，特別適合搭配歷屆試題中不動產、土地定著物與登記效力題型複習。",
+    "relatedQuestionIds": [],
+    "reviewQuestions": [
+      { "question": "民法上的不動產包含哪些？", "answer": "土地及其定著物。", "explanation": "土地定著物是物權單元高頻考點。" },
+      { "question": "不動產物權變動為何常與登記連結？", "answer": "因為不動產物權變動通常以登記作為重要生效或公示要件。", "explanation": "民法物權與土地登記題型常互相連動。" }
+    ]
+  },
+  {
+    "id": "valuation-unit-01",
+    "lectureSubject": "不動產估價講義",
+    "courseSubject": "不動產估價概要",
+    "sourceFolder": "不動產估價講義",
+    "sourceFiles": ["不動產估價講義_範例.pdf"],
+    "unitNo": 1,
+    "unitTitle": "總則與用語定義",
+    "unitGroup": "不動產估價基礎",
+    "sourceRefs": ["範例來源：不動產估價講義，總則單元，頁碼待校對"],
+    "draftStatus": "sample",
+    "routingTags": ["valuation-general", "valuation-terms", "appraisal-basics"],
+    "learningGoals": ["掌握不動產估價基本目的", "理解價格、價值與估價條件", "建立估價方法前置概念"],
+    "keyConcepts": ["正常價格", "價格日期", "勘估標的", "估價條件", "市場價值"],
+    "importantArticles": [
+      { "lawName": "不動產估價技術規則", "articleNo": "第2條", "reason": "用語定義是估價題型基礎" },
+      { "lawName": "不動產估價技術規則", "articleNo": "第3條", "reason": "估價原則與適用範圍常作為基本題" }
+    ],
+    "examFocus": ["估價用語定義", "價格日期與勘估標的", "正常價格與特定價格的區分"],
+    "commonConfusions": [
+      { "confusion": "價格日期與估價作業日期混淆", "clarification": "價格日期是價格判斷基準時點，不一定等於實際作業日期。" }
+    ],
+    "summary": "本單元建立不動產估價的基本語言，先掌握價格日期、勘估標的與估價條件，再進入三大估價方法。",
+    "relatedQuestionIds": [],
+    "reviewQuestions": [
+      { "question": "價格日期的意義是什麼？", "answer": "判定不動產價格所依據的基準日期。", "explanation": "價格會隨市場變化，因此估價需明確基準時點。" },
+      { "question": "勘估標的是什麼？", "answer": "估價作業所要評估的不動產或權利標的。", "explanation": "標的範圍不清會影響估價結果。" }
+    ]
+  },
+  {
+    "id": "valuation-unit-02",
+    "lectureSubject": "不動產估價講義",
+    "courseSubject": "不動產估價概要",
+    "sourceFolder": "不動產估價講義",
+    "sourceFiles": ["不動產估價講義_範例.pdf"],
+    "unitNo": 2,
+    "unitTitle": "估價作業程序",
+    "unitGroup": "不動產估價基礎",
+    "sourceRefs": ["範例來源：不動產估價講義，估價作業程序單元，頁碼待校對"],
+    "draftStatus": "sample",
+    "routingTags": ["valuation-process", "appraisal-report", "site-inspection"],
+    "learningGoals": ["理解估價作業流程", "掌握資料蒐集、現場勘查與價格判定", "知道估價報告書基本內容"],
+    "keyConcepts": ["基本事項確定", "資料蒐集", "現場勘查", "價格形成因素", "估價報告書"],
+    "importantArticles": [
+      { "lawName": "不動產估價技術規則", "articleNo": "第9條", "reason": "估價作業程序常考" },
+      { "lawName": "不動產估價技術規則", "articleNo": "第15條", "reason": "價格形成因素分析常與方法選擇連動" }
+    ],
+    "examFocus": ["估價作業流程順序", "現場勘查與資料蒐集", "估價報告書應記載事項"],
+    "commonConfusions": [
+      { "confusion": "資料蒐集與價格判定順序混淆", "clarification": "通常先確定基本事項、蒐集資料與勘查，再進行分析與價格判定。" }
+    ],
+    "summary": "本單元整理估價作業從接受委託到完成報告的基本流程，適合作為比較法、收益法與成本法的前置複習。",
+    "relatedQuestionIds": [],
+    "reviewQuestions": [
+      { "question": "估價作業為何需要現場勘查？", "answer": "確認勘估標的實際狀況與影響價格的個別因素。", "explanation": "現場狀況會影響估價方法與價格調整。" },
+      { "question": "估價報告書的功能是什麼？", "answer": "記載估價過程、依據、方法與結論，供使用者判斷。", "explanation": "報告書是估價成果的正式呈現。" }
+    ]
+  },
+  {
+    "id": "valuation-unit-03",
+    "lectureSubject": "不動產估價講義",
+    "courseSubject": "不動產估價概要",
+    "sourceFolder": "不動產估價講義",
+    "sourceFiles": ["不動產估價講義_範例.pdf"],
+    "unitNo": 3,
+    "unitTitle": "比較法",
+    "unitGroup": "不動產估價方法",
+    "sourceRefs": ["範例來源：不動產估價講義，比較法單元，頁碼待校對"],
+    "draftStatus": "sample",
+    "routingTags": ["valuation-comparison-method", "market-comparable", "price-adjustment"],
+    "learningGoals": ["理解比較法的基本精神", "掌握比較標的選取與價格調整", "分辨情況、日期、區域與個別因素調整"],
+    "keyConcepts": ["比較標的", "交易案例", "情況調整", "價格日期調整", "區域因素"],
+    "importantArticles": [
+      { "lawName": "不動產估價技術規則", "articleNo": "第18條", "reason": "比較法基本規定" },
+      { "lawName": "不動產估價技術規則", "articleNo": "第19條", "reason": "比較標的選取與調整常考" }
+    ],
+    "examFocus": ["比較標的選取條件", "各類價格調整", "比較法適用於市場案例充足標的"],
+    "commonConfusions": [
+      { "confusion": "情況因素與區域因素混淆", "clarification": "情況因素偏向交易本身特殊條件，區域因素偏向標的所在地區條件。" }
+    ],
+    "summary": "本單元整理比較法的操作邏輯，以類似交易案例為基礎，透過各項調整推估勘估標的價格。",
+    "relatedQuestionIds": [],
+    "reviewQuestions": [
+      { "question": "比較法最需要什麼資料？", "answer": "足夠且可比較的交易案例。", "explanation": "市場案例不足時，比較法可信度會下降。" },
+      { "question": "價格日期調整的目的為何？", "answer": "排除不同交易時點造成的價格差異。", "explanation": "不動產價格會隨市場時間變動。" }
+    ]
+  },
+  {
+    "id": "valuation-unit-04",
+    "lectureSubject": "不動產估價講義",
+    "courseSubject": "不動產估價概要",
+    "sourceFolder": "不動產估價講義",
+    "sourceFiles": ["不動產估價講義_範例.pdf"],
+    "unitNo": 4,
+    "unitTitle": "收益法",
+    "unitGroup": "不動產估價方法",
+    "sourceRefs": ["範例來源：不動產估價講義，收益法單元，頁碼待校對"],
+    "draftStatus": "sample",
+    "routingTags": ["valuation-income-method", "net-income", "capitalization-rate"],
+    "learningGoals": ["理解收益法適用於收益型不動產", "掌握淨收益與資本化率", "分辨直接資本化與折現現金流量"],
+    "keyConcepts": ["收益價格", "淨收益", "資本化率", "折現率", "折現現金流量"],
+    "importantArticles": [
+      { "lawName": "不動產估價技術規則", "articleNo": "第28條", "reason": "收益法基本規定" },
+      { "lawName": "不動產估價技術規則", "articleNo": "第29條", "reason": "收益與費用分析常考" },
+      { "lawName": "不動產估價技術規則", "articleNo": "第31條", "reason": "資本化率與折現率相關考點" }
+    ],
+    "examFocus": ["收益法適用情形", "淨收益計算", "資本化率與折現率差異"],
+    "commonConfusions": [
+      { "confusion": "資本化率與折現率混淆", "clarification": "資本化率常用於穩定收益轉換價格，折現率常用於不同期間現金流折現。" }
+    ],
+    "summary": "本單元整理收益法，以不動產未來收益為核心，將淨收益透過資本化或折現方式轉換為價格。",
+    "relatedQuestionIds": [],
+    "reviewQuestions": [
+      { "question": "收益法適合哪類不動產？", "answer": "出租型或收益型不動產。", "explanation": "收益法核心是未來收益能力。" },
+      { "question": "淨收益通常如何取得？", "answer": "由有效總收入扣除必要費用後求得。", "explanation": "淨收益是收益價格計算的關鍵。" }
+    ]
+  },
+  {
+    "id": "valuation-unit-05",
+    "lectureSubject": "不動產估價講義",
+    "courseSubject": "不動產估價概要",
+    "sourceFolder": "不動產估價講義",
+    "sourceFiles": ["不動產估價講義_範例.pdf"],
+    "unitNo": 5,
+    "unitTitle": "成本法",
+    "unitGroup": "不動產估價方法",
+    "sourceRefs": ["範例來源：不動產估價講義，成本法單元，頁碼待校對"],
+    "draftStatus": "sample",
+    "routingTags": ["valuation-cost-method", "reproduction-cost", "depreciation"],
+    "learningGoals": ["理解成本法的價格形成邏輯", "掌握重建成本、折舊與土地價格", "分辨成本法適用情形"],
+    "keyConcepts": ["重建成本", "重置成本", "折舊", "耐用年數", "成本價格"],
+    "importantArticles": [
+      { "lawName": "不動產估價技術規則", "articleNo": "第46條", "reason": "成本法基本規定" },
+      { "lawName": "不動產估價技術規則", "articleNo": "第47條", "reason": "成本與折舊計算常考" }
+    ],
+    "examFocus": ["成本法適用於新建物或特殊建物", "重建成本與折舊", "土地價格加建物成本的估算邏輯"],
+    "commonConfusions": [
+      { "confusion": "重建成本與重置成本混淆", "clarification": "重建成本偏向複製原建物，重置成本偏向建造效用相同的替代建物。" }
+    ],
+    "summary": "本單元整理成本法，重點在土地價格、建物成本與折舊的組合，適合市場案例不足或特殊標的估價。",
+    "relatedQuestionIds": [],
+    "reviewQuestions": [
+      { "question": "成本法通常適合哪些標的？", "answer": "新建物、特殊建物或市場交易案例較少的標的。", "explanation": "成本法不完全依賴市場交易案例。" },
+      { "question": "成本法為何需要扣除折舊？", "answer": "因為建物會因物理、功能或經濟因素減損價值。", "explanation": "折舊反映建物現況與新建成本之間的差異。" }
+    ]
+  },
+  {
+    "id": "broker-law-unit-placeholder-01",
+    "lectureSubject": "不動產經紀相關法規",
+    "courseSubject": "不動產經紀相關法規概要",
+    "sourceFolder": "不動產經紀相關法規",
+    "sourceFiles": [],
+    "unitNo": 1,
+    "unitTitle": "待匯入講義",
+    "unitGroup": "待確認講義來源",
+    "sourceRefs": ["placeholder：尚未確認獨立講義來源"],
+    "draftStatus": "draft",
+    "routingTags": ["placeholder", "needs-review", "broker-law-pending", "source-review"],
+    "learningGoals": [],
+    "keyConcepts": [],
+    "importantArticles": [],
+    "examFocus": [],
+    "commonConfusions": [],
+    "summary": "目前尚未確認獨立講義來源，可先由歷屆試題或日後上傳講義整理。",
+    "relatedQuestionIds": [],
+    "reviewQuestions": []
+  },
+  {
+    "id": "misc-unit-placeholder-01",
+    "lectureSubject": "其他單獨講義",
+    "courseSubject": "待人工歸類",
+    "sourceFolder": "其他單獨講義",
+    "sourceFiles": ["複習5調和房地利用關係.pdf", "wHandMenuFile.pdf"],
+    "unitNo": 1,
+    "unitTitle": "待人工歸類講義",
+    "unitGroup": "待人工歸類",
+    "sourceRefs": ["placeholder：需確認內容後歸入適當科目"],
+    "draftStatus": "draft",
+    "routingTags": ["placeholder", "needs-review", "manual-classification", "misc-pending"],
+    "learningGoals": [],
+    "keyConcepts": [],
+    "importantArticles": [],
+    "examFocus": [],
+    "commonConfusions": [],
+    "summary": "例如複習5調和房地利用關係.pdf、wHandMenuFile.pdf，需確認內容後歸入適當科目。",
+    "relatedQuestionIds": [],
+    "reviewQuestions": []
+  }
+]

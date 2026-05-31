@@ -1,0 +1,28 @@
+{
+  "name": "real-estate-broker-exam-review",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "dev:netlify": "netlify dev",
+    "build": "vite build",
+    "build:questions": "node scripts/buildQuestionBank.js && node scripts/validateQuestions.js",
+    "import:laws": "node scripts/importMojLaws.js",
+    "suggest:lawrefs": "node scripts/suggestLawRefs.js",
+    "apply:lawrefs": "node scripts/suggestLawRefs.js --write",
+    "import:exams": "python3 scripts/importPastExams.py",
+    "preview": "vite preview",
+    "validate:questions": "node scripts/validateQuestions.js"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.28.0",
+    "vite": "^5.4.11"
+  },
+  "devDependencies": {
+    "rollup": "npm:@rollup/wasm-node@^4.60.3"
+  }
+}

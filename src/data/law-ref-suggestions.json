@@ -1,0 +1,898 @@
+[
+  {
+    "id": "civil-103-choice-020",
+    "year": 103,
+    "subject": "民法概要",
+    "topic": "民法綜合題",
+    "suggestedLawRefs": [
+      "civil-code-767"
+    ],
+    "file": "src/data/question-bank/years/103/civil.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "land-tax-103-choice-008",
+    "year": 103,
+    "subject": "土地法與土地相關稅法概要",
+    "topic": "土地法與稅法綜合題",
+    "suggestedLawRefs": [
+      "land-act-219"
+    ],
+    "file": "src/data/question-bank/years/103/land-tax.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "land-tax-103-choice-025",
+    "year": 103,
+    "subject": "土地法與土地相關稅法概要",
+    "topic": "土地法與稅法綜合題",
+    "suggestedLawRefs": [
+      "land-act-68"
+    ],
+    "file": "src/data/question-bank/years/103/land-tax.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "land-tax-103-choice-038",
+    "year": 103,
+    "subject": "土地法與土地相關稅法概要",
+    "topic": "土地法與稅法綜合題",
+    "suggestedLawRefs": [
+      "land-act-104"
+    ],
+    "file": "src/data/question-bank/years/103/land-tax.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "civil-104-choice-014",
+    "year": 104,
+    "subject": "民法概要",
+    "topic": "民法綜合題",
+    "suggestedLawRefs": [
+      "civil-code-225"
+    ],
+    "file": "src/data/question-bank/years/104/civil.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "civil-104-choice-020",
+    "year": 104,
+    "subject": "民法概要",
+    "topic": "民法綜合題",
+    "suggestedLawRefs": [
+      "civil-code-347"
+    ],
+    "file": "src/data/question-bank/years/104/civil.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "land-tax-104-choice-002",
+    "year": 104,
+    "subject": "土地法與土地相關稅法概要",
+    "topic": "土地法與稅法綜合題",
+    "suggestedLawRefs": [
+      "land-act-34"
+    ],
+    "file": "src/data/question-bank/years/104/land-tax.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "land-tax-104-choice-005",
+    "year": 104,
+    "subject": "土地法與土地相關稅法概要",
+    "topic": "土地法與稅法綜合題",
+    "suggestedLawRefs": [
+      "land-act-15",
+      "land-act-34",
+      "land-act-104",
+      "land-act-107"
+    ],
+    "file": "src/data/question-bank/years/104/land-tax.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "land-tax-104-choice-013",
+    "year": 104,
+    "subject": "土地法與土地相關稅法概要",
+    "topic": "土地法與稅法綜合題",
+    "suggestedLawRefs": [
+      "land-act-56",
+      "broker-law-56"
+    ],
+    "file": "src/data/question-bank/years/104/land-tax.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "valuation-104-choice-023",
+    "year": 104,
+    "subject": "不動產估價概要",
+    "topic": "估價綜合題",
+    "suggestedLawRefs": [
+      "valuation-rules-58",
+      "valuation-rules-59"
+    ],
+    "file": "src/data/question-bank/years/104/valuation.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "civil-105-choice-001",
+    "year": 105,
+    "subject": "民法概要",
+    "topic": "民法綜合題",
+    "suggestedLawRefs": [
+      "civil-code-1"
+    ],
+    "file": "src/data/question-bank/years/105/civil.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "civil-105-choice-015",
+    "year": 105,
+    "subject": "民法概要",
+    "topic": "民法綜合題",
+    "suggestedLawRefs": [
+      "civil-code-184"
+    ],
+    "file": "src/data/question-bank/years/105/civil.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "civil-105-choice-016",
+    "year": 105,
+    "subject": "民法概要",
+    "topic": "民法綜合題",
+    "suggestedLawRefs": [
+      "civil-code-250"
+    ],
+    "file": "src/data/question-bank/years/105/civil.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "civil-105-choice-022",
+    "year": 105,
+    "subject": "民法概要",
+    "topic": "民法綜合題",
+    "suggestedLawRefs": [
+      "civil-code-796"
+    ],
+    "file": "src/data/question-bank/years/105/civil.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "land-tax-105-essay-001",
+    "year": 105,
+    "subject": "土地法與土地相關稅法概要",
+    "topic": "土地法與稅法綜合題",
+    "suggestedLawRefs": [
+      "land-act-143"
+    ],
+    "file": "src/data/question-bank/years/105/land-tax.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "land-tax-105-choice-004",
+    "year": 105,
+    "subject": "土地法與土地相關稅法概要",
+    "topic": "土地法與稅法綜合題",
+    "suggestedLawRefs": [
+      "civil-code-796"
+    ],
+    "file": "src/data/question-bank/years/105/land-tax.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "land-tax-105-choice-018",
+    "year": 105,
+    "subject": "土地法與土地相關稅法概要",
+    "topic": "土地法與稅法綜合題",
+    "suggestedLawRefs": [
+      "land-act-34"
+    ],
+    "file": "src/data/question-bank/years/105/land-tax.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "land-tax-105-choice-034",
+    "year": 105,
+    "subject": "土地法與土地相關稅法概要",
+    "topic": "土地法與稅法綜合題",
+    "suggestedLawRefs": [
+      "land-act-34"
+    ],
+    "file": "src/data/question-bank/years/105/land-tax.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "land-tax-105-choice-035",
+    "year": 105,
+    "subject": "土地法與土地相關稅法概要",
+    "topic": "土地法與稅法綜合題",
+    "suggestedLawRefs": [
+      "land-act-104"
+    ],
+    "file": "src/data/question-bank/years/105/land-tax.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "valuation-105-choice-037",
+    "year": 105,
+    "subject": "不動產估價概要",
+    "topic": "估價綜合題",
+    "suggestedLawRefs": [
+      "valuation-rules-26"
+    ],
+    "file": "src/data/question-bank/years/105/valuation.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "valuation-105-choice-038",
+    "year": 105,
+    "subject": "不動產估價概要",
+    "topic": "估價綜合題",
+    "suggestedLawRefs": [
+      "valuation-rules-25"
+    ],
+    "file": "src/data/question-bank/years/105/valuation.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "civil-106-choice-012",
+    "year": 106,
+    "subject": "民法概要",
+    "topic": "民法綜合題",
+    "suggestedLawRefs": [
+      "civil-code-184",
+      "civil-code-495"
+    ],
+    "file": "src/data/question-bank/years/106/civil.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "civil-106-choice-033",
+    "year": 106,
+    "subject": "民法概要",
+    "topic": "民法綜合題",
+    "suggestedLawRefs": [
+      "civil-code-759"
+    ],
+    "file": "src/data/question-bank/years/106/civil.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "civil-106-choice-039",
+    "year": 106,
+    "subject": "民法概要",
+    "topic": "民法綜合題",
+    "suggestedLawRefs": [
+      "civil-code-184"
+    ],
+    "file": "src/data/question-bank/years/106/civil.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "civil-106-choice-040",
+    "year": 106,
+    "subject": "民法概要",
+    "topic": "民法綜合題",
+    "suggestedLawRefs": [
+      "civil-code-18"
+    ],
+    "file": "src/data/question-bank/years/106/civil.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "land-tax-106-choice-006",
+    "year": 106,
+    "subject": "土地法與土地相關稅法概要",
+    "topic": "土地法與稅法綜合題",
+    "suggestedLawRefs": [
+      "land-act-100"
+    ],
+    "file": "src/data/question-bank/years/106/land-tax.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "land-tax-106-choice-021",
+    "year": 106,
+    "subject": "土地法與土地相關稅法概要",
+    "topic": "土地法與稅法綜合題",
+    "suggestedLawRefs": [
+      "land-act-3",
+      "land-tax-act-3"
+    ],
+    "file": "src/data/question-bank/years/106/land-tax.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "land-tax-106-choice-027",
+    "year": 106,
+    "subject": "土地法與土地相關稅法概要",
+    "topic": "土地法與稅法綜合題",
+    "suggestedLawRefs": [
+      "land-act-22"
+    ],
+    "file": "src/data/question-bank/years/106/land-tax.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "land-tax-106-choice-030",
+    "year": 106,
+    "subject": "土地法與土地相關稅法概要",
+    "topic": "土地法與稅法綜合題",
+    "suggestedLawRefs": [
+      "land-act-103"
+    ],
+    "file": "src/data/question-bank/years/106/land-tax.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "land-tax-106-choice-040",
+    "year": 106,
+    "subject": "土地法與土地相關稅法概要",
+    "topic": "土地法與稅法綜合題",
+    "suggestedLawRefs": [
+      "land-act-3",
+      "land-act-22",
+      "land-act-100",
+      "land-act-103",
+      "land-tax-act-3",
+      "land-tax-act-22",
+      "equalization-land-rights-act-3",
+      "equalization-land-rights-act-22"
+    ],
+    "file": "src/data/question-bank/years/106/land-tax.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "valuation-106-choice-003",
+    "year": 106,
+    "subject": "不動產估價概要",
+    "topic": "估價綜合題",
+    "suggestedLawRefs": [
+      "valuation-rules-7"
+    ],
+    "file": "src/data/question-bank/years/106/valuation.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "valuation-106-choice-016",
+    "year": 106,
+    "subject": "不動產估價概要",
+    "topic": "估價綜合題",
+    "suggestedLawRefs": [
+      "valuation-rules-89"
+    ],
+    "file": "src/data/question-bank/years/106/valuation.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "valuation-106-choice-026",
+    "year": 106,
+    "subject": "不動產估價概要",
+    "topic": "估價綜合題",
+    "suggestedLawRefs": [
+      "valuation-rules-68"
+    ],
+    "file": "src/data/question-bank/years/106/valuation.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "civil-107-choice-019",
+    "year": 107,
+    "subject": "民法概要",
+    "topic": "民法綜合題",
+    "suggestedLawRefs": [
+      "civil-code-802",
+      "civil-code-810"
+    ],
+    "file": "src/data/question-bank/years/107/civil.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "land-tax-107-choice-004",
+    "year": 107,
+    "subject": "土地法與土地相關稅法概要",
+    "topic": "土地法與稅法綜合題",
+    "suggestedLawRefs": [
+      "land-act-34"
+    ],
+    "file": "src/data/question-bank/years/107/land-tax.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "land-tax-107-choice-005",
+    "year": 107,
+    "subject": "土地法與土地相關稅法概要",
+    "topic": "土地法與稅法綜合題",
+    "suggestedLawRefs": [
+      "land-act-59"
+    ],
+    "file": "src/data/question-bank/years/107/land-tax.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "land-tax-107-choice-006",
+    "year": 107,
+    "subject": "土地法與土地相關稅法概要",
+    "topic": "土地法與稅法綜合題",
+    "suggestedLawRefs": [
+      "land-act-73"
+    ],
+    "file": "src/data/question-bank/years/107/land-tax.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "land-tax-107-choice-019",
+    "year": 107,
+    "subject": "土地法與土地相關稅法概要",
+    "topic": "土地法與稅法綜合題",
+    "suggestedLawRefs": [
+      "land-act-3",
+      "land-tax-act-3"
+    ],
+    "file": "src/data/question-bank/years/107/land-tax.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "land-tax-107-choice-025",
+    "year": 107,
+    "subject": "土地法與土地相關稅法概要",
+    "topic": "土地法與稅法綜合題",
+    "suggestedLawRefs": [
+      "land-act-4",
+      "land-act-14"
+    ],
+    "file": "src/data/question-bank/years/107/land-tax.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "valuation-108-choice-016",
+    "year": 108,
+    "subject": "不動產估價概要",
+    "topic": "估價綜合題",
+    "suggestedLawRefs": [
+      "valuation-rules-99"
+    ],
+    "file": "src/data/question-bank/years/108/valuation.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "civil-109-choice-012",
+    "year": 109,
+    "subject": "民法概要",
+    "topic": "民法綜合題",
+    "suggestedLawRefs": [
+      "civil-code-425",
+      "civil-code-767"
+    ],
+    "file": "src/data/question-bank/years/109/civil.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "land-tax-109-choice-004",
+    "year": 109,
+    "subject": "土地法與土地相關稅法概要",
+    "topic": "土地法與稅法綜合題",
+    "suggestedLawRefs": [
+      "land-act-17",
+      "land-tax-act-17"
+    ],
+    "file": "src/data/question-bank/years/109/land-tax.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "land-tax-109-choice-014",
+    "year": 109,
+    "subject": "土地法與土地相關稅法概要",
+    "topic": "土地法與稅法綜合題",
+    "suggestedLawRefs": [
+      "land-act-100",
+      "civil-code-100",
+      "civil-code-443"
+    ],
+    "file": "src/data/question-bank/years/109/land-tax.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "land-tax-109-choice-020",
+    "year": 109,
+    "subject": "土地法與土地相關稅法概要",
+    "topic": "土地法與稅法綜合題",
+    "suggestedLawRefs": [
+      "land-act-25",
+      "broker-law-25"
+    ],
+    "file": "src/data/question-bank/years/109/land-tax.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "land-tax-109-choice-023",
+    "year": 109,
+    "subject": "土地法與土地相關稅法概要",
+    "topic": "土地法與稅法綜合題",
+    "suggestedLawRefs": [
+      "land-act-53"
+    ],
+    "file": "src/data/question-bank/years/109/land-tax.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "land-tax-109-choice-024",
+    "year": 109,
+    "subject": "土地法與土地相關稅法概要",
+    "topic": "土地法與稅法綜合題",
+    "suggestedLawRefs": [
+      "land-act-34"
+    ],
+    "file": "src/data/question-bank/years/109/land-tax.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "civil-110-choice-013",
+    "year": 110,
+    "subject": "民法概要",
+    "topic": "民法綜合題",
+    "suggestedLawRefs": [
+      "civil-code-983"
+    ],
+    "file": "src/data/question-bank/years/110/civil.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "civil-110-choice-018",
+    "year": 110,
+    "subject": "民法概要",
+    "topic": "民法綜合題",
+    "suggestedLawRefs": [
+      "civil-code-880"
+    ],
+    "file": "src/data/question-bank/years/110/civil.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "land-tax-110-choice-008",
+    "year": 110,
+    "subject": "土地法與土地相關稅法概要",
+    "topic": "土地法與稅法綜合題",
+    "suggestedLawRefs": [
+      "land-act-35",
+      "equalization-land-rights-act-35"
+    ],
+    "file": "src/data/question-bank/years/110/land-tax.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "land-tax-110-choice-021",
+    "year": 110,
+    "subject": "土地法與土地相關稅法概要",
+    "topic": "土地法與稅法綜合題",
+    "suggestedLawRefs": [
+      "land-act-26",
+      "land-act-74",
+      "equalization-land-rights-act-26",
+      "equalization-land-rights-act-74"
+    ],
+    "file": "src/data/question-bank/years/110/land-tax.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "land-tax-110-choice-023",
+    "year": 110,
+    "subject": "土地法與土地相關稅法概要",
+    "topic": "土地法與稅法綜合題",
+    "suggestedLawRefs": [
+      "land-act-30"
+    ],
+    "file": "src/data/question-bank/years/110/land-tax.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "valuation-110-choice-021",
+    "year": 110,
+    "subject": "不動產估價概要",
+    "topic": "估價綜合題",
+    "suggestedLawRefs": [
+      "valuation-rules-43"
+    ],
+    "file": "src/data/question-bank/years/110/valuation.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "civil-111-choice-001",
+    "year": 111,
+    "subject": "民法概要",
+    "topic": "民法綜合題",
+    "suggestedLawRefs": [
+      "civil-code-1173"
+    ],
+    "file": "src/data/question-bank/years/111/civil.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "civil-111-choice-008",
+    "year": 111,
+    "subject": "民法概要",
+    "topic": "民法綜合題",
+    "suggestedLawRefs": [
+      "civil-code-169"
+    ],
+    "file": "src/data/question-bank/years/111/civil.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "civil-111-choice-011",
+    "year": 111,
+    "subject": "民法概要",
+    "topic": "民法綜合題",
+    "suggestedLawRefs": [
+      "civil-code-74"
+    ],
+    "file": "src/data/question-bank/years/111/civil.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "land-tax-111-choice-013",
+    "year": 111,
+    "subject": "土地法與土地相關稅法概要",
+    "topic": "土地法與稅法綜合題",
+    "suggestedLawRefs": [
+      "land-act-34"
+    ],
+    "file": "src/data/question-bank/years/111/land-tax.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "land-tax-111-choice-014",
+    "year": 111,
+    "subject": "土地法與土地相關稅法概要",
+    "topic": "土地法與稅法綜合題",
+    "suggestedLawRefs": [
+      "land-act-17"
+    ],
+    "file": "src/data/question-bank/years/111/land-tax.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "civil-112-choice-022",
+    "year": 112,
+    "subject": "民法概要",
+    "topic": "民法綜合題",
+    "suggestedLawRefs": [
+      "civil-code-1031"
+    ],
+    "file": "src/data/question-bank/years/112/civil.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "land-tax-112-choice-023",
+    "year": 112,
+    "subject": "土地法與土地相關稅法概要",
+    "topic": "土地法與稅法綜合題",
+    "suggestedLawRefs": [
+      "land-act-14",
+      "land-act-30",
+      "land-tax-act-14",
+      "land-tax-act-30"
+    ],
+    "file": "src/data/question-bank/years/112/land-tax.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "civil-113-choice-019",
+    "year": 113,
+    "subject": "民法概要",
+    "topic": "民法綜合題",
+    "suggestedLawRefs": [
+      "civil-code-195"
+    ],
+    "file": "src/data/question-bank/years/113/civil.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "land-tax-113-choice-017",
+    "year": 113,
+    "subject": "土地法與土地相關稅法概要",
+    "topic": "土地法與稅法綜合題",
+    "suggestedLawRefs": [
+      "land-act-34",
+      "civil-code-34"
+    ],
+    "file": "src/data/question-bank/years/113/land-tax.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "valuation-113-choice-008",
+    "year": 113,
+    "subject": "不動產估價概要",
+    "topic": "估價綜合題",
+    "suggestedLawRefs": [
+      "valuation-rules-26"
+    ],
+    "file": "src/data/question-bank/years/113/valuation.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "civil-114-choice-007",
+    "year": 114,
+    "subject": "民法概要",
+    "topic": "民法綜合題",
+    "suggestedLawRefs": [
+      "civil-code-88"
+    ],
+    "file": "src/data/question-bank/years/114/civil.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "civil-114-choice-008",
+    "year": 114,
+    "subject": "民法概要",
+    "topic": "民法綜合題",
+    "suggestedLawRefs": [
+      "civil-code-176"
+    ],
+    "file": "src/data/question-bank/years/114/civil.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "civil-114-choice-013",
+    "year": 114,
+    "subject": "民法概要",
+    "topic": "民法綜合題",
+    "suggestedLawRefs": [
+      "civil-code-231"
+    ],
+    "file": "src/data/question-bank/years/114/civil.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "civil-114-choice-021",
+    "year": 114,
+    "subject": "民法概要",
+    "topic": "民法綜合題",
+    "suggestedLawRefs": [
+      "civil-code-1138"
+    ],
+    "file": "src/data/question-bank/years/114/civil.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "civil-114-choice-022",
+    "year": 114,
+    "subject": "民法概要",
+    "topic": "民法綜合題",
+    "suggestedLawRefs": [
+      "civil-code-1138"
+    ],
+    "file": "src/data/question-bank/years/114/civil.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "land-tax-114-essay-002",
+    "year": 114,
+    "subject": "土地法與土地相關稅法概要",
+    "topic": "土地法與稅法綜合題",
+    "suggestedLawRefs": [
+      "land-act-39",
+      "land-tax-act-39"
+    ],
+    "file": "src/data/question-bank/years/114/land-tax.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "land-tax-114-choice-010",
+    "year": 114,
+    "subject": "土地法與土地相關稅法概要",
+    "topic": "土地法與稅法綜合題",
+    "suggestedLawRefs": [
+      "land-act-78"
+    ],
+    "file": "src/data/question-bank/years/114/land-tax.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "land-tax-114-choice-025",
+    "year": 114,
+    "subject": "土地法與土地相關稅法概要",
+    "topic": "土地法與稅法綜合題",
+    "suggestedLawRefs": [
+      "land-act-20",
+      "equalization-land-rights-act-20"
+    ],
+    "file": "src/data/question-bank/years/114/land-tax.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "valuation-114-choice-022",
+    "year": 114,
+    "subject": "不動產估價概要",
+    "topic": "估價綜合題",
+    "suggestedLawRefs": [
+      "valuation-rules-130"
+    ],
+    "file": "src/data/question-bank/years/114/valuation.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  },
+  {
+    "id": "valuation-114-choice-023",
+    "year": 114,
+    "subject": "不動產估價概要",
+    "topic": "估價綜合題",
+    "suggestedLawRefs": [
+      "valuation-rules-32"
+    ],
+    "file": "src/data/question-bank/years/114/valuation.json",
+    "confidence": "high",
+    "reason": "題目或解析文字同時出現法規名稱與第幾條。"
+  }
+]

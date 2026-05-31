@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="不動產經紀人證照複習 App">
+  <rect width="512" height="512" rx="96" fill="#256d45"/>
+  <path d="M104 238 256 118l152 120v176a22 22 0 0 1-22 22H126a22 22 0 0 1-22-22V238Z" fill="#f6f7f4"/>
+  <path d="M168 260h176v34H168v-34Zm0 62h132v34H168v-34Z" fill="#256d45"/>
+  <path d="M256 118 88 250l-28-36 196-154 196 154-28 36-168-132Z" fill="#d7b56d"/>
+</svg>

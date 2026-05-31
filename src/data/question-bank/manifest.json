@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "description": "Local JSON question database. Edit files under years/{year}/{subjectSlug}.json, then run npm run build:questions.",
+  "generatedQuestionFile": "../questions.json",
+  "years": [
+    103,
+    104
+  ],
+  "subjects": [
+    {
+      "slug": "civil",
+      "name": "民法概要"
+    },
+    {
+      "slug": "land-tax",
+      "name": "土地法與土地相關稅法概要"
+    },
+    {
+      "slug": "valuation",
+      "name": "不動產估價概要"
+    },
+    {
+      "slug": "broker-law",
+      "name": "不動產經紀相關法規概要"
+    }
+  ]
+}
